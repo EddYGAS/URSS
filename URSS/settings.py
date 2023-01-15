@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'blogApp.apps.BlogappConfig',
     'django.contrib.humanize',
     'crispy_forms',
+    'django_bootstrap_icons',
     
 ]
 
